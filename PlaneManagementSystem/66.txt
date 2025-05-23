@@ -1,0 +1,9 @@
+Ticket Information
+Row: A
+Seat Number: 1
+The Price: 200.0
+
+Person Information
+Name: sa
+Surname: we
+Email: sw

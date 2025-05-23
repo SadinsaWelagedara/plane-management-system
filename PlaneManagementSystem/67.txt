@@ -1,0 +1,9 @@
+Ticket Information
+Row: B
+Seat Number: 1
+The Price: 200.0
+
+Person Information
+Name: sadi
+Surname: welagedara
+Email: wasadinsa@gmail.com
